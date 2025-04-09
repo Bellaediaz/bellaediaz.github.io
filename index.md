@@ -1,4 +1,4 @@
-# Hello Word
+# Hello World
 
 This is my home page! My name is Isabella Diaz and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is elecrical engineering.
 
